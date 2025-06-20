@@ -1,2 +1,1 @@
-# osada-yum.github.io
-My github.io.
+# test of sphinx
